@@ -26,7 +26,7 @@ tmux のステータスバーに [Claude Code](https://docs.anthropic.com/en/doc
 `.tmux.conf` に追加:
 
 ```bash
-set -g @plugin 'karaage/tmux-claude-indicator'
+set -g @plugin 'krgpi/tmux-claude-indicator'
 ```
 
 `prefix + I` でインストール。
